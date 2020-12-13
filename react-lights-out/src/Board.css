@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+.Board {
+	margin: 10px auto;
+	border-radius: 5px;
+	box-shadow: 0 0 15px 5px #acacac3a;
+}
+
+.Board-title {
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+
+.Board-title h1 {
+	height: initial;
+	font-size: 110px;
+	text-transform: uppercase;
+	margin: 5px auto;
+	color: transparent;
+	/* background-image: url("https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif"); */
+	background-image: url("https://media.giphy.com/media/z2POQZ2t8s5Gzp4C7r/giphy.gif");
+	background-position: center;
+	background-size: cover;
+	background-clip: text;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+}
+
+.winner.Board-title h1 {
+	font-size: 120px;
+}
