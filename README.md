@@ -16,4 +16,14 @@
 
 ---
 
-## Game Screenshot
+## How to run and play ?
+
+- Clone this repository or download project zip and extract it to local storage
+- Run _npm install_ to install the dependencies
+- Run npm start
+
+## Game Screenshots
+
+![Game Screen](https://github.com/VinayakRB/Lights-Out/blob/master/react-lights-out/src/assets/chrome-capture-1.gif?raw=true)
+![Game Interface](https://github.com/VinayakRB/Lights-Out/blob/master/react-lights-out/src/assets/chrome-capture.jpg?raw=true)
+![Win Screen](https://github.com/VinayakRB/Lights-Out/blob/master/react-lights-out/src/assets/chrome-capture-2.gif?raw=true)
